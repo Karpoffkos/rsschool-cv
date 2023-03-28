@@ -7,6 +7,7 @@
 
 ## DETAILS
 ===
+
 + **April 04, 1992**
 + **+375 29 294-70-81**
 + **+375 44 500-00-51**
@@ -16,11 +17,13 @@
 
 ## LANGUAGES
 ===
+
 **Russian: Native**
 **English: Upper Intermediate**
 
 ## SKILL HIGHLIGHTS
 ===
+
 -	**General management**
 -	**Problem solving skills**
 -	**Planning**
@@ -67,10 +70,23 @@
 *Design, construction and exploitation of oil, gas pipelines and storages*
 
 #### Social media
-[ LinkedIn  ] [https://www.linkedin.com/in/kanstantsin-karpau-393865199]
 
-[ Vkontakte] [https://vk.com/karpoff2010]
+[https://www.linkedin.com/in/kanstantsin-karpau-393865199](LinkedIn)
 
-[ Instagramm] [https://www.instagram.com/karpoffk]
+[https://vk.com/karpoff2010](Vkontakte)
 
+[https://www.instagram.com/karpoffk](Instagramm)
 
+#### Code's example 
+
+```
+function solution(number){
+ let sum = 0;
+  for (let i =0; i &lt; number; i++){
+   if (i%3 == 0 || i%5 == 0) {
+   sum += i;  
+   }
+  } 
+ return sum
+}
+```
