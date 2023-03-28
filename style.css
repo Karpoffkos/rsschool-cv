@@ -1,51 +1,70 @@
+html {scroll-behavior: smooth;}
+a {
+    scroll-behavior: smooth;
+    color: inherit;
+    text-decoration: none;
+    outline: none;
+}
+li {
+    list-style: none;
+}
 .body {
    
     width: 1280px;
     margin: 0 auto;
    
 }
-.bodyDiv {
+main, footer {
+    padding-left: 300px ;
+}
+.header {
+    position: absolute;
+    width: 300px;
     display: flex;
     flex-direction: column;
-    align-items: stretch;
-    padding:0 5em;
-    
-   
-};
-.header1 {
-flex: 0 0 75 vh;
+    align-items: center;
+    justify-content:space-between;
+    background-color: rgb(181, 179, 179);
+    background-size: cover;
 
 }
 .header-container {
     display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap-reverse;
-    text-align: start;
-    padding: 5PX 250px 5PX 225PX;
-    background: url("assets/img/photo-1540051834522-7248234b9b4d.jpg");
-    background-size: cover;
+
+    flex-direction: column;
+    align-items:start;
+    justify-content: center;
+    padding-left: 20px;
+
   
 }
 .header-container > div {
     flex-grow: 1;
 
 }
-.aboutMe {
+.aboutMe,
+.work,
+.education {
     text-align:left; 
     
-    width: 760px;
-    margin: auto;
+    width: 60vw;
+    margin: 0 auto;
 }
-.aboutMe_discribe {
-    text-align:justify; 
-}
-.navigation {
-    width: 760px;
-    margin: auto;
+.experience{
     display: flex;
     flex-direction: row;
+}
+.study{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.details {
+  
+    display: flex;
+    flex-direction: column;
     justify-content:space-between;
-    text-align: center;
+    text-align: start;
     padding: 1em;
     
     
@@ -61,13 +80,7 @@ div.anctor1 {
     text-align: center;
     padding: 1em;
 }
-.education {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    text-align: center;
-    padding: 1em;
-}
+
 .language {
     text-align: start;
     padding: 1em;
