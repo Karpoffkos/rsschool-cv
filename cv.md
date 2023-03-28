@@ -1,13 +1,10 @@
 # Kanstantsin Karpau
 **Head of process department**
 
-**of Unitary enterprise**
-
-**«Zapad –Transnefteproduct»**
+**of Unitary enterprise «Zapad –Transnefteproduct»**
 
 ## DETAILS
-===
-
+===========
 + **April 04, 1992**
 + **+375 29 294-70-81**
 + **+375 44 500-00-51**
@@ -16,13 +13,12 @@
 + **Vitebsk, Republic of Belarus**
 
 ## LANGUAGES
-===
-
-**Russian: Native**
-**English: Upper Intermediate**
+=============
+- **Russian: Native**
+- **English: Upper Intermediate**
 
 ## SKILL HIGHLIGHTS
-===
+========================
 
 -	**General management**
 -	**Problem solving skills**
@@ -30,7 +26,7 @@
 -	**Organization**
 -	**Technical knowledge**
 -	**Interpersonal communication skills**
--	
+
 ## PROFILE 
 
  Managing of duties of process department of subdivision one of Oil Transport Company JSC “Transneft”. Controlling over transport through pipelines over than 1000 km long in 8 directions. Design and control over implementation of plans, strategies to transport oil products using exist capacity of 5 pump stations, 5 terminal stations with common volume  of tanks farms more than 1 million cubic meters.
