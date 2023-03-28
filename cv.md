@@ -37,24 +37,33 @@
 ###Head of Process Department 
 
 *Up to date – May 2020*
+
 *Unitary enterprise «Zapad – Transnefteproduct» (JSC «Transneft»)*
 
 ###Lead (senior) engineer, Process Department
+
 *May 2020 – Oct 2019*
+
 *Unitary enterprise «Zapad – Transnefteproduct» (JSC «Transneft»)*
 
 ###1st category engineer, Department of Operations
+
 *Oct 2019 – Apr 2014*
+
 *Unitary enterprise «Zapad – Transnefteproduct» (JSC «Transneft»)*
 
-EDUCATION
+##EDUCATION
 
 **Master’s degree. Polotsk State University, RB**
+
 *2014 – 2017*
+
 *Construction and exploitation of oil and gas pipelines and storages *
 
 **Bachelor's degree. Polotsk State University, RB**
+
 *2009 – 2014 *
+
 *Design, construction and exploitation of oil, gas pipelines and storages*
 
 
