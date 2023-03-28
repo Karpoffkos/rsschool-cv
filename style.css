@@ -9,13 +9,15 @@ li {
     list-style: none;
 }
 .body {
-   
+    
     width: 1280px;
     margin: 0 auto;
-   
+    /* height: 100vh; */
 }
 main, footer {
-    padding-left: 300px ;
+    margin: 0 20px 0 320px;
+    max-width: 100%;
+    
 }
 .header {
     position: absolute;
