@@ -1,1 +1,2 @@
-# rsschool-cv
+# rsschool-cv task Markdown & Git
+https://Karpoffkos.github.io/rsschool-cv/
