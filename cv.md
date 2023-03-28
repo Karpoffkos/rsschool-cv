@@ -68,6 +68,9 @@
 
 #### Social media
 [ LinkedIn  ] [https://www.linkedin.com/in/kanstantsin-karpau-393865199]
+
 [ Vkontakte] [https://vk.com/karpoff2010]
+
 [ Instagramm] [https://www.instagram.com/karpoffk]
+
 
